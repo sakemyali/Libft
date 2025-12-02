@@ -1,4 +1,4 @@
-# libft
+# Libft
 
 A small C library implementing commonly used functions from the C standard library and a few utility helpers. This project is a typical "libft" used for the 42 cursus: a learning exercise that reimplements functions like memory/string utilities, character checks, conversions, simple I/O helpers and a small linked-list API (bonus).
 
